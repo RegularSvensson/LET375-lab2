@@ -6,6 +6,7 @@
  *
  * 
  */
+package collection;
 import java.io.*;
 
 public class TestSingleBuffer {
