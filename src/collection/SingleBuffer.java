@@ -1,10 +1,10 @@
 /**
- * Assignment 1
+ * 
  * @author Mona Khoshoi, Elias Svensson
  * @since 14-04-16 
  * Email: khoshoimona@gmail.com, elias.svensson.1992@gmail.com
  *
- * @param <T>
+ * 
  */
 
 package collection;
