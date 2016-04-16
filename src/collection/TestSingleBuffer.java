@@ -15,7 +15,8 @@ public class TestSingleBuffer {
 		
 
         //  Define the object stringBuf of type SingleBuffer here...
-
+        
+        SingleBuffer<String> stringBuf = new SingleBuffer<String>();
 
 
         while ( true ) {
